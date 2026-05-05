@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
@@ -229,12 +228,12 @@ body{font-family:var(--sans);background:var(--bg);color:var(--txt);min-height:10
 .dpane{display:none}.dpane.on{display:block}
 .dtbar{display:flex;justify-content:space-between;align-items:center;margin-bottom:15px}
 .dtbar h3{font-size:.92rem;color:var(--txt)}
-.dfilt{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:12px}
+.dfilt{display:flex;gap:7px;flex-:;margin-bottom:12px}
 .dfbtn{padding:4px 11px;border-radius:20px;border:1px solid var(--border);background:#fff;font-size:.76rem;font-weight:600;cursor:pointer;transition:var(--ease);color:var(--txt2)}
 .dfbtn.on{background:var(--navy);color:#fff;border-color:var(--navy)}
 .ditem{background:#F9F9F9;border:1px solid #EBEBEB;border-radius:10px;padding:12px 14px;margin-bottom:8px;display:flex;gap:12px;align-items:flex-start}
 .ditem-body{flex:1;min-width:0}
-.ditem-meta{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:5px}
+.ditem-meta{display:flex;gap:4px;flex-:;margin-bottom:5px}
 .dbadge{font-size:.64rem;font-weight:700;padding:2px 7px;border-radius:4px;letter-spacing:.06em;text-transform:uppercase}
 .db-lvl{background:#E8EDF8;color:var(--navy)}.db-gr{background:#EDF5EA;color:#2E7D5A}
 .db-vo{background:#FEF3E8;color:#C8521A}.db-gl{background:#EAF5EE;color:#2E7D5A}
